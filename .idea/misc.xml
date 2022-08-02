@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.11231884057971014" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.124" />
+        <entry key="app/src/main/res/drawable/button_bg.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/button_vw.xml" value="0.1235" />
+        <entry key="app/src/main/res/drawable/edit_txt.xml" value="0.11163787841796863" />
+        <entry key="app/src/main/res/drawable/googles_background.xml" value="0.10219879150390626" />
+        <entry key="app/src/main/res/drawable/ic_google_background.xml" value="0.124" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.124" />
+        <entry key="app/src/main/res/drawable/view_bg.xml" value="0.124" />
+        <entry key="app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-w936dp/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_home_page2.xml" value="0.10416666666666667" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.23565530979886973" />
+        <entry key="app/src/main/res/layout/activity_login_main.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_login_page.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_signin.xml" value="0.18568840579710144" />
+        <entry key="app/src/main/res/layout/activity_tab.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/app_bar_home_page2.xml" value="0.19655797101449277" />
+        <entry key="app/src/main/res/layout/content_home_page2.xml" value="0.1838768115942029" />
+        <entry key="app/src/main/res/layout/fragment_addfriends.xml" value="0.1838768115942029" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.18568840579710144" />
+        <entry key="app/src/main/res/layout/fragment_first2.xml" value="0.18568840579710144" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.11702127659574468" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.1838768115942029" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.18568840579710144" />
+        <entry key="app/src/main/res/layout/fragment_second2.xml" value="0.18568840579710144" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.1838768115942029" />
+        <entry key="app/src/main/res/layout/fragment_signin.xml" value="0.22197661223234955" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.1838768115942029" />
+        <entry key="app/src/main/res/layout/fragment_tab.xml" value="0.19655797101449277" />
+        <entry key="app/src/main/res/layout/fragment_tab1.xml" value="0.18568840579710144" />
+        <entry key="app/src/main/res/layout/fragment_tab2.xml" value="0.18568840579710144" />
+        <entry key="app/src/main/res/layout/nav_header_home_page2.xml" value="0.23369150364652597" />
+        <entry key="app/src/main/res/layout/signin_fragment.xml" value="0.21422101449275363" />
+        <entry key="app/src/main/res/layout/signup_fragment.xml" value="0.21422101449275363" />
+        <entry key="app/src/main/res/menu/activity_home_page2_drawer.xml" value="0.3020579020182292" />
+        <entry key="app/src/main/res/menu/home_page2.xml" value="0.1484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
